@@ -13,5 +13,5 @@ javafx {
 }
 
 application {
-    mainClass = 'App'
+    mainClass = 'MainApp'
 }
